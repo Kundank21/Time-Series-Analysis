@@ -1,0 +1,3 @@
+I analysed the climate data and were able to observe the trend and seasonality present in it. We observed that over the years, the temperatures are gradually rising. We also observed that every year the temperatures rose until around the month of May, then they started decreasing. We then fit a ARIMA(3,1,2) model to forecast future temperatures. We conclude that in the future years, the temperatures will gradually rise.
+
+We can clearly see that global warming is indeed a real phenomenon. It is quite alarming to see the rise in temperatures over the years. It is crucial to take drastic measures in order to create a sustainable future for our future generations.
